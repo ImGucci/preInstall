@@ -1,9 +1,11 @@
 # Use examples
 
-Get the preloaded information configured inside the AndroidManifest
+# Get the preloaded information configured inside the AndroidManifest
 
 
- String resultData = null;
+
+
+String resultData = null;
         try {
             PackageManager packageManager = getPackageManager();
 
