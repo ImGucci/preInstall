@@ -1,5 +1,7 @@
 # Use examples
 
+Get the preloaded information configured inside the AndroidManifest
+
 
  String resultData = null;
         try {
