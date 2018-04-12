@@ -6,7 +6,7 @@
         android:supportsRtl="true"
         android:debuggable="false">
         <meta-data android:name="com.meizu.flyme.preinstalldemo" android:value="meizu_preinstall" />
-        <meta-data android:name="com.2gismobile" android:value="meizu_preinstall" />
+        <meta-data android:name="ua.prom.b2c" android:value="meizu_preinstall" />
         <meta-data android:name="net.megogo" android:value="meizu_preinstall" />
         <meta-data android:name="com.joom.beacon" android:value="meizu_preinstall" />
         </application>
